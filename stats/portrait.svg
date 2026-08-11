@@ -1,0 +1,1471 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="673"
+    height="705"
+    viewBox="0 0 673 705">
+<rect width="100%" height="100%" fill="white"/>
+<style>
+    .ascii {
+        font-family: "DejaVu Sans Mono", "Liberation Mono", monospace;
+        font-size: 12.9px;
+        font-weight: 400;
+        white-space: pre;
+    }
+</style>
+
+<defs>
+    <clipPath id="clip0">
+        <rect
+            x="0"
+            y="0.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="0.00s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip0)">
+
+    <text
+        x="0"
+        y="12.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                                             .`:`.</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip1">
+        <rect
+            x="0"
+            y="15.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="0.09s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip1)">
+
+    <text
+        x="0"
+        y="27.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                                            ```...</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip2">
+        <rect
+            x="0"
+            y="30.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="0.18s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip2)">
+
+    <text
+        x="0"
+        y="42.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                                           ....</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip3">
+        <rect
+            x="0"
+            y="45.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="0.27s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip3)">
+
+    <text
+        x="0"
+        y="57.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                                            .     .</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip4">
+        <rect
+            x="0"
+            y="60.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="0.36s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip4)">
+
+    <text
+        x="0"
+        y="72.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                                                 .. .</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip5">
+        <rect
+            x="0"
+            y="75.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="0.45s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip5)">
+
+    <text
+        x="0"
+        y="87.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                                       ..`.`:::```.</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip6">
+        <rect
+            x="0"
+            y="90.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="0.54s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip6)">
+
+    <text
+        x="0"
+        y="102.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                                   ..`--=++=====-::.          .</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip7">
+        <rect
+            x="0"
+            y="105.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="0.63s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip7)">
+
+    <text
+        x="0"
+        y="117.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                                  .`-*cccssscccccc*=`.</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip8">
+        <rect
+            x="0"
+            y="120.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="0.72s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip8)">
+
+    <text
+        x="0"
+        y="132.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                                 .`-*csss*--+c####s*-:`.</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip9">
+        <rect
+            x="0"
+            y="135.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="0.81s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip9)">
+
+    <text
+        x="0"
+        y="147.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                                `-*cccssc`.`-=c##ssc*=:.</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip10">
+        <rect
+            x="0"
+            y="150.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="0.90s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip10)">
+
+    <text
+        x="0"
+        y="162.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                               .-**cccss#sss######scc**+:</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip11">
+        <rect
+            x="0"
+            y="165.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="0.99s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip11)">
+
+    <text
+        x="0"
+        y="177.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                              .:-:``:-+*cs#####ssc*+-:-==:</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip12">
+        <rect
+            x="0"
+            y="180.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="1.08s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip12)">
+
+    <text
+        x="0"
+        y="192.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                             `-:====-`..`-+***+:. .:-=-:`:</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip13">
+        <rect
+            x="0"
+            y="195.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="1.17s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip13)">
+
+    <text
+        x="0"
+        y="207.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                             ..``.. . .... `:`.....`. .``..   ...</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip14">
+        <rect
+            x="0"
+            y="210.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="1.26s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip14)">
+
+    <text
+        x="0"
+        y="222.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                         .`  -=--`-` `*:`` *s+.``=-. :.`::.  :::.</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip15">
+        <rect
+            x="0"
+            y="225.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="1.35s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip15)">
+
+    <text
+        x="0"
+        y="237.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                         .`..=***++======-cs#c*:==++===++=:..::`</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip16">
+        <rect
+            x="0"
+            y="240.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="1.44s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip16)">
+
+    <text
+        x="0"
+        y="252.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                          ``.=ccsscc**cc**s##s*+cccccccc*=..`::</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip17">
+        <rect
+            x="0"
+            y="255.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="1.53s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip17)">
+
+    <text
+        x="0"
+        y="267.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                          `::-*css#####++-=#%c==*%%##ssc*-.::-.</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip18">
+        <rect
+            x="0"
+            y="270.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="1.62s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip18)">
+
+    <text
+        x="0"
+        y="282.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                          .--:=*cssssss+-:---``:+##sssc*-``-==</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip19">
+        <rect
+            x="0"
+            y="285.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="1.71s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip19)">
+
+    <text
+        x="0"
+        y="297.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                           .-:=+******c**+css*+**ccccc*-: -=-</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip20">
+        <rect
+            x="0"
+            y="300.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="1.80s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip20)">
+
+    <text
+        x="0"
+        y="312.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                            . -+*++++=-:::--:``:-=****=-` :=`</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip21">
+        <rect
+            x="0"
+            y="315.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="1.89s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip21)">
+
+    <text
+        x="0"
+        y="327.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                           :` .=****+-`:-+*++=:``+*c*=-:   :.</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip22">
+        <rect
+            x="0"
+            y="330.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="1.98s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip22)">
+
+    <text
+        x="0"
+        y="342.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                               `=+++**+=-::::--+*c*+=-:    .</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip23">
+        <rect
+            x="0"
+            y="345.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="2.07s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip23)">
+
+    <text
+        x="0"
+        y="357.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                                `-==+**ccs####ssc*+-:.</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip24">
+        <rect
+            x="0"
+            y="360.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="2.16s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip24)">
+
+    <text
+        x="0"
+        y="372.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                                `:::-+**cc*+*ccc+-``..</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip25">
+        <rect
+            x="0"
+            y="375.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="2.25s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip25)">
+
+    <text
+        x="0"
+        y="387.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                                .:--:```::```````.```.</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip26">
+        <rect
+            x="0"
+            y="390.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="2.34s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip26)">
+
+    <text
+        x="0"
+        y="402.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                                .:-----:::``:::`::::`.</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip27">
+        <rect
+            x="0"
+            y="405.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="2.43s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip27)">
+
+    <text
+        x="0"
+        y="417.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                               .`:--=========-::---:`......</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip28">
+        <rect
+            x="0"
+            y="420.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="2.52s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip28)">
+
+    <text
+        x="0"
+        y="432.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                            .`:::-----===----::::::::``:::--``.  ...</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip29">
+        <rect
+            x="0"
+            y="435.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="2.61s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip29)">
+
+    <text
+        x="0"
+        y="447.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                        .```:-======-----===--::`::-====+=++==-:``*c+--`.</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip30">
+        <rect
+            x="0"
+            y="450.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="2.70s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip30)">
+
+    <text
+        x="0"
+        y="462.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                   .`:-===-:+***++++++-------::::=+**+****+==-::`*cc=--====:`</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip31">
+        <rect
+            x="0"
+            y="465.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="2.79s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip31)">
+
+    <text
+        x="0"
+        y="477.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>                .:-========-=+***+==++++++=+++++===---:::----:-:+ssc-=========-.</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip32">
+        <rect
+            x="0"
+            y="480.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="2.88s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip32)">
+
+    <text
+        x="0"
+        y="492.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>            .`-==============-`:---++****+++++**cccccccsccc****+s##*======+++++=-.</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip33">
+        <rect
+            x="0"
+            y="495.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="2.97s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip33)">
+
+    <text
+        x="0"
+        y="507.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>         .`--===================*c*cccccc****csssss####scccccc+*#%#+==++=++++***+=:</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip34">
+        <rect
+            x="0"
+            y="510.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="3.06s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip34)">
+
+    <text
+        x="0"
+        y="522.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>       `--==-=====+++=--==========+**cccccsssssccsssssscc*cc*=-c%%s======+++cs****=-.</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip35">
+        <rect
+            x="0"
+            y="525.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="3.15s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip35)">
+
+    <text
+        x="0"
+        y="537.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>     .---====--==++++======---====--=++*ccsssccssscccccc**+=--=s##*=======+=++++*c*=-</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip36">
+        <rect
+            x="0"
+            y="540.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="3.24s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip36)">
+
+    <text
+        x="0"
+        y="552.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>    .-----=====++++++=++===---=*=-===-----=*=-++++=====--+*---+s#s+=====-=+===+++ccc+`</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip37">
+        <rect
+            x="0"
+            y="555.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="3.33s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip37)">
+
+    <text
+        x="0"
+        y="567.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>    `:-----=*===++++=======-------------=:-:::-:--------------*##c==------==-=+=+*css+</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip38">
+        <rect
+            x="0"
+            y="570.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="3.42s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip38)">
+
+    <text
+        x="0"
+        y="582.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>    `--------====++==---==-----==------=c:::----:-------------c##*--==---sc=--===*css#</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip39">
+        <rect
+            x="0"
+            y="585.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="3.51s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip39)">
+
+    <text
+        x="0"
+        y="597.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>    ::------==++++=-:---==-----==----=*s%s-------------------+s##+--===-------===*ccss`</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip40">
+        <rect
+            x="0"
+            y="600.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="3.60s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip40)">
+
+    <text
+        x="0"
+        y="612.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>    :::---=-====+=-:--==-:---=-=======s##*---==-=-=++-====---c##s---=-=-------==++cccs:</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip41">
+        <rect
+            x="0"
+            y="615.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="3.69s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip41)">
+
+    <text
+        x="0"
+        y="627.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>    ::-:-----=====:::-:--::--===========--=========++========c##c=----=-------==+=*ccc:</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip42">
+        <rect
+            x="0"
+            y="630.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="3.78s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip42)">
+
+    <text
+        x="0"
+        y="642.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>    --:---::--===-`:`:----------==============++===+==+====-+s##+----==--::----===+**c-</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip43">
+        <rect
+            x="0"
+            y="645.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="3.87s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip43)">
+
+    <text
+        x="0"
+        y="657.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>    ::::::::``--=:`.-==--===----============++++++++++++====*##s+----===-:::---===+***-</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip44">
+        <rect
+            x="0"
+            y="660.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="3.96s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip44)">
+
+    <text
+        x="0"
+        y="672.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>    ----:-::-```-``:=======-----======+++++++++++++++++=====s##c+=-------:`:::-===++++-</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip45">
+        <rect
+            x="0"
+            y="675.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="4.05s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip45)">
+
+    <text
+        x="0"
+        y="687.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>    --::::--:``.. .=======-----*c*--:-===+++*#c++++++++===*cs#s*++--------::::--===+++-</tspan>
+    </text>
+
+</g>
+
+<defs>
+    <clipPath id="clip46">
+        <rect
+            x="0"
+            y="690.00"
+            width="0"
+            height="15.00">
+            <animate
+                attributeName="width"
+                from="0"
+                to="673.38"
+                dur="0.8s"
+                begin="4.14s"
+                fill="freeze"/>
+        </rect>
+    </clipPath>
+</defs>
+
+<g clip-path="url(#clip46)">
+
+    <text
+        x="0"
+        y="702.90"
+        class="ascii"
+        fill="#111"
+        xml:space="preserve">
+        <tspan>    :::-::::::.. .--=====-----:+*=--`:-==================--*s#s==+:--::::::::::-=====-:</tspan>
+    </text>
+
+</g>
+</svg>

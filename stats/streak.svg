@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="600"
+    height="180"
+    viewBox="0 0 600 180">
+
+    <rect
+        width="100%"
+        height="100%"
+        fill="white"/>
+
+    <text
+        x="30"
+        y="35"
+        font-family="monospace"
+        font-size="16"
+        fill="#555">
+        CONTRIBUTION STREAK
+    </text>
+
+    <text
+        x="30"
+        y="85"
+        font-family="monospace"
+        font-size="36"
+        font-weight="bold"
+        fill="#111">
+        CURRENT: 0 DAYS
+    </text>
+
+    <text
+        x="30"
+        y="125"
+        font-family="monospace"
+        font-size="24"
+        fill="#111">
+        LONGEST: 3 DAYS
+    </text>
+
+    <text
+        x="30"
+        y="155"
+        font-family="monospace"
+        font-size="14"
+        fill="#555">
+        2026-08-04 → 2026-08-06
+    </text>
+
+</svg>

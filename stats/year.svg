@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="900"
+    height="180"
+    viewBox="0 0 900 180">
+
+    <rect
+        width="100%"
+        height="100%"
+        fill="white"/>
+
+    <text
+        x="30"
+        y="30"
+        font-family="monospace"
+        font-size="16"
+        fill="#555">
+        CONTRIBUTION YEAR
+    </text>
+
+    <text
+        x="30"
+        y="60"
+        font-family="monospace"
+        font-size="13"
+        xml:space="preserve"
+        fill="#111">
+                             .                                                   
+    </text>
+
+    <text
+        x="30"
+        y="84"
+        font-family="monospace"
+        font-size="13"
+        xml:space="preserve"
+        fill="#111">
+                                         ::                                      
+    </text>
+
+    <text
+        x="30"
+        y="108"
+        font-family="monospace"
+        font-size="13"
+        xml:space="preserve"
+        fill="#111">
+                                                                @                
+    </text>
+
+    <text
+        x="30"
+        y="132"
+        font-family="monospace"
+        font-size="13"
+        xml:space="preserve"
+        fill="#111">
+                                                                                 
+    </text>
+
+    <text
+        x="30"
+        y="156"
+        font-family="monospace"
+        font-size="13"
+        xml:space="preserve"
+        fill="#111">
+                                             +      :          + :       :#-     
+    </text>
+</svg>
