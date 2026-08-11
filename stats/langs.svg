@@ -27,7 +27,7 @@
     <rect
         x="30"
         y="60"
-        width="332.26"
+        width="316.86"
         height="18"
         fill="#e34c26"/>
 
@@ -47,7 +47,7 @@
         font-family="monospace"
         font-size="12"
         fill="#555">
-        61.5%
+        58.7%
     </text>
 
     <rect
@@ -60,7 +60,7 @@
     <rect
         x="30"
         y="92"
-        width="108.80"
+        width="103.76"
         height="18"
         fill="#f1e05a"/>
 
@@ -80,7 +80,7 @@
         font-family="monospace"
         font-size="12"
         fill="#555">
-        20.1%
+        19.2%
     </text>
 
     <rect
@@ -93,7 +93,7 @@
     <rect
         x="30"
         y="124"
-        width="85.18"
+        width="81.23"
         height="18"
         fill="#663399"/>
 
@@ -113,7 +113,7 @@
         font-family="monospace"
         font-size="12"
         fill="#555">
-        15.8%
+        15.0%
     </text>
 
     <rect
@@ -126,9 +126,9 @@
     <rect
         x="30"
         y="156"
-        width="13.75"
+        width="25.04"
         height="18"
-        fill="#b07219"/>
+        fill="#3572A5"/>
 
     <text
         x="30"
@@ -136,7 +136,7 @@
         font-family="monospace"
         font-size="12"
         fill="#111">
-        Java
+        Python
     </text>
 
     <text
@@ -146,6 +146,39 @@
         font-family="monospace"
         font-size="12"
         fill="#555">
-        2.5%
+        4.6%
+    </text>
+
+    <rect
+        x="30"
+        y="188"
+        width="540"
+        height="18"
+        fill="#eeeeee"/>
+
+    <rect
+        x="30"
+        y="188"
+        width="13.11"
+        height="18"
+        fill="#b07219"/>
+
+    <text
+        x="30"
+        y="202"
+        font-family="monospace"
+        font-size="12"
+        fill="#111">
+        Java
+    </text>
+
+    <text
+        x="570"
+        y="202"
+        text-anchor="end"
+        font-family="monospace"
+        font-size="12"
+        fill="#555">
+        2.4%
     </text>
 </svg>
