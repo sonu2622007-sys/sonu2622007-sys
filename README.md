@@ -1,16 +1,81 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sonu2622007-sys/sonu2622007-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# SONU2622007-SYS
 
-Here are some ideas to get you started:
+### B.Tech Information Technology Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## About Me
+
+I'm a B.Tech Information Technology student interested in software development, data analytics, and modern web technologies.
+
+I enjoy building projects, learning new technologies, and experimenting with APIs and automation.
+
+---
+
+## My GitHub Activity
+
+<div align="center">
+
+<img src="./stats/portrait.svg" width="460">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./stats/stats.svg" width="900">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./stats/streak.svg" width="900">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./stats/langs.svg" width="900">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./stats/year.svg" width="900">
+
+</div>
+
+---
+
+## Technologies
+
+`Python` `Java` `JavaScript` `HTML` `CSS` `SQL` `Git` `GitHub`
+
+---
+
+## Projects
+
+- Ocean Hazard Reporting Platform
+- URL Shortener with Click Analytics
+- Employee Management System
+- Student Feedback Management System
+- Stock Trading Platform
+
+---
+
+<div align="center">
+
+Generated automatically from my own repository.
+
+</div>
