@@ -27,7 +27,7 @@
     <rect
         x="30"
         y="60"
-        width="316.86"
+        width="314.88"
         height="18"
         fill="#e34c26"/>
 
@@ -47,7 +47,7 @@
         font-family="monospace"
         font-size="12"
         fill="#555">
-        58.7%
+        58.3%
     </text>
 
     <rect
@@ -60,7 +60,7 @@
     <rect
         x="30"
         y="92"
-        width="103.76"
+        width="102.95"
         height="18"
         fill="#f1e05a"/>
 
@@ -80,7 +80,7 @@
         font-family="monospace"
         font-size="12"
         fill="#555">
-        19.2%
+        19.1%
     </text>
 
     <rect
@@ -93,7 +93,7 @@
     <rect
         x="30"
         y="124"
-        width="81.23"
+        width="81.00"
         height="18"
         fill="#663399"/>
 
@@ -126,7 +126,7 @@
     <rect
         x="30"
         y="156"
-        width="25.04"
+        width="24.84"
         height="18"
         fill="#3572A5"/>
 
@@ -159,7 +159,7 @@
     <rect
         x="30"
         y="188"
-        width="13.11"
+        width="13.01"
         height="18"
         fill="#b07219"/>
 
