@@ -24,7 +24,7 @@
         font-size="13"
         xml:space="preserve"
         fill="#111">
-               .                                                                 
+              .                                                                  
     </text>
 
     <text
@@ -34,7 +34,7 @@
         font-size="13"
         xml:space="preserve"
         fill="#111">
-                           ::                                                    
+                          ::                                                     
     </text>
 
     <text
@@ -44,7 +44,7 @@
         font-size="13"
         xml:space="preserve"
         fill="#111">
-                                                  @                              
+                                                 @                               
     </text>
 
     <text
@@ -64,6 +64,6 @@
         font-size="13"
         xml:space="preserve"
         fill="#111">
-                               +      :          + :       :#-    :        :     
+                              +      :          + :       :#-    :        :      
     </text>
 </svg>
